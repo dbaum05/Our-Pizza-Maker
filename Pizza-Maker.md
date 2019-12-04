@@ -5,8 +5,16 @@
 
 # Pizza Maker
  
+![image_example1][image1]
+ 
 `Dylan`, _Jorge_, and *Jake* 
  
+[//]: # (Image References)
+
+[image1]: https://github.com/dbaum05/Our-Pizza-Maker/blob/master/WIN_20191202_08_59_36_Pro.jpg "image_example1"
+[image2]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example2.JPG "image_example2"
+[image3]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example3.JPG "image_example3"
+
 ## Design constraints: 
 1.	Mus be able to make 3 pizzas (cheese, peperoni, and sausage) in the same amount of time per pizza. 
 2.	Must be able to be put direcly in line with their packaging machines. 
