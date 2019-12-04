@@ -5,7 +5,7 @@
 
 # Pizza Maker
  
-Dylan, Jorje, and Jake 
+`Dylan`, _Jorge_, and *Jake* 
  
 ## Design constraints: 
 1.	Mus be able to make 3 pizzas (cheese, peperoni, and sausage) in the same amount of time per pizza. 
@@ -20,9 +20,9 @@ o	The writeuptemplate.md file in the repository, can be used to fulfill requirem
 9.	While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objectives.
  
 ### Design
-	Three modules like the one pictured below were used to dispense the toppings (cheese, peperoni, and sausage) onto the pizzas. They were opened by a timed motor wired to M2, M3, and M4. They would then close until a switch wired to I4, I5, or I6 were activated. (all in respective order). The motors were wired to a light in parallel so that the customer could see where the pizza was. 
+Three modules like the one pictured below were used to dispense the toppings (cheese, peperoni, and sausage) onto the pizzas. They were opened by a timed motor wired to M2, M3, and M4. They would then close until a switch wired to I4, I5, or I6 were activated. (all in respective order). The motors were wired to a light in parallel so that the customer could see where the pizza was. 
  
-	The pizza was moved along under the dispensers and oven by a conveyor belt. The motor did not apply enough torque to power such a long track, so a custom gearbox was used. It is a standard motor gearbox attached on its axis to a screw gear. This is then attached to a larger wheel, which is attached on the same axis to the gears that spin the track. This motor was wired to O1. 
+The pizza was moved along under the dispensers and oven by a conveyor belt. The motor did not apply enough torque to power such a long track, so a custom gearbox was used. It is a standard motor gearbox attached on its axis to a screw gear. This is then attached to a larger wheel, which is attached on the same axis to the gears that spin the track. This motor was wired to O1. 
  
 
 The pizza was baked by six lights at the end of the conveyor. They were wired in parallel to the O2 port. After this the pizza would be dispensed into the packaging machine and allowed to sit for a second to cool, or it could be served hot (like good pizza should be). 
