@@ -7,8 +7,8 @@
  
 ![image_example1][image1]
  
-`Dylan`, _Jorge_, and *Jake* 
- 
+`Dylan`, _Jorge_, and **Jake** 
+
 [//]: # (Image References)
 
 [image1]: https://github.com/dbaum05/Our-Pizza-Maker/blob/master/WIN_20191202_08_59_36_Pro.jpg "image_example1"
