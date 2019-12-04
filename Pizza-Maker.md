@@ -37,7 +37,7 @@ The pizza was baked by six lights at the end of the conveyor. They were wired in
  
 Here is a picture of the whole controller board. It contains all the connected wires, and was connected directly to the side of the machine. It was on the opposite side of the selector stitches to create a clean front. 
  
-	Three switches were located on the front of the machine that allowed the operator to select what pizza they wanted to make. They could select cheese, peperoni, or sausage and were wired to the I1, I2, and I3 slots. 
+Three switches were located on the front of the machine that allowed the operator to select what pizza they wanted to make. They could select cheese, peperoni, or sausage and were wired to the I1, I2, and I3 slots. 
  
 
 Code 
@@ -55,7 +55,7 @@ The program starts running the conveyor motor (O1) after any of the buttons are 
  
 There is then a time delay, and then the code for the cheese toppings to be applied. All of the timing circuits were determined through trial and error, and these may need to be adjusted per each machine if tolerances are not tight. 
  
-	Once the cheese circuit is completed, the machine checks for the peperoni and sausage variables to determine if it needs to apply those toppings. If not, it flows into a delay which flows into the baking portion of the program 
+Once the cheese circuit is completed, the machine checks for the peperoni and sausage variables to determine if it needs to apply those toppings. If not, it flows into a delay which flows into the baking portion of the program 
  
 
 
