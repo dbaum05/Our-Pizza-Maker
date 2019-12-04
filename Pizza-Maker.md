@@ -3,11 +3,11 @@
 
 
 
-Pizza Maker
+# Pizza Maker
  
 Dylan, Jorje, and Jake 
  
-Design constraints: 
+## Design constraints: 
 1.	Mus be able to make 3 pizzas (cheese, peperoni, and sausage) in the same amount of time per pizza. 
 2.	Must be able to be put direcly in line with their packaging machines. 
 3.	Must have indicators so that the customer can see where the pizza is in the making process. 
@@ -19,7 +19,7 @@ o	The writeuptemplate.md file in the repository, can be used to fulfill requirem
 8.	The final submission will be a link to your GitHub repository for this project, so please maintain a professional digital environment.
 9.	While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objectives.
  
-Design
+### Design
 	Three modules like the one pictured below were used to dispense the toppings (cheese, peperoni, and sausage) onto the pizzas. They were opened by a timed motor wired to M2, M3, and M4. They would then close until a switch wired to I4, I5, or I6 were activated. (all in respective order). The motors were wired to a light in parallel so that the customer could see where the pizza was. 
  
 	The pizza was moved along under the dispensers and oven by a conveyor belt. The motor did not apply enough torque to power such a long track, so a custom gearbox was used. It is a standard motor gearbox attached on its axis to a screw gear. This is then attached to a larger wheel, which is attached on the same axis to the gears that spin the track. This motor was wired to O1. 
